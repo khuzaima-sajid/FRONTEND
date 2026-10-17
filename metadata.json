@@ -1,0 +1,8 @@
+{
+  "name": "Remix NaSCon 26 – Multi-Sport League \u0026 Club Operations",
+  "description": "Multi-Sport League \u0026 Club Operations Platform for university tournaments, fixture management, rosters, and live scoring.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
